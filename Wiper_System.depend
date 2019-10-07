@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1553853742 source:c:\users\gattub\desktop\140604_c\wiper_system\fuse.c
+	<avr/io.h>
+
+1554092066 source:c:\users\gattub\desktop\140604_c\wiper_system\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+	"ADC_module.h"
+	"TImer_Module.h"
+	"PWM_module.h"
+
+1554092180 source:c:\users\gattub\desktop\140604_c\wiper_system\adc_module.c
+	<avr/io.h>
+	"ADC_module.h"
+
+1554092263 c:\users\gattub\desktop\140604_c\wiper_system\adc_module.h
+
+1554092263 c:\users\gattub\desktop\140604_c\wiper_system\timer_module.h
+
+1554092263 c:\users\gattub\desktop\140604_c\wiper_system\pwm_module.h
+
+1554092180 source:c:\users\gattub\desktop\140604_c\wiper_system\pwm_module.c
+	<avr/io.h>
+	"PWM_module.h"
+
+1554092213 source:c:\users\gattub\desktop\140604_c\wiper_system\timer_module.c
+	<avr/io.h>
+	"TImer_Module.h"
+
+1554092182 source:d:\grade a_content_fungible modules\embedded c\embedded c_genesis_new\sample_codes\wiper_system\wiper_system\adc_module.c
+	<avr/io.h>
+	"ADC_module.h"
+
+1562040987 d:\grade a_content_fungible modules\embedded c\embedded c_genesis_new\sample_codes\wiper_system\wiper_system\adc_module.h
+
+1553853744 source:d:\grade a_content_fungible modules\embedded c\embedded c_genesis_new\sample_codes\wiper_system\wiper_system\fuse.c
+	<avr/io.h>
+
+1554092182 source:d:\grade a_content_fungible modules\embedded c\embedded c_genesis_new\sample_codes\wiper_system\wiper_system\pwm_module.c
+	<avr/io.h>
+	"PWM_module.h"
+
+1562040987 d:\grade a_content_fungible modules\embedded c\embedded c_genesis_new\sample_codes\wiper_system\wiper_system\pwm_module.h
+
+1554092214 source:d:\grade a_content_fungible modules\embedded c\embedded c_genesis_new\sample_codes\wiper_system\wiper_system\timer_module.c
+	<avr/io.h>
+	"TImer_Module.h"
+
+1562040987 d:\grade a_content_fungible modules\embedded c\embedded c_genesis_new\sample_codes\wiper_system\wiper_system\timer_module.h
+
+1562041048 source:d:\grade a_content_fungible modules\embedded c\embedded c_genesis_new\sample_codes\wiper_system\wiper_system\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+	"ADC_module.h"
+	"TImer_Module.h"
+	"PWM_module.h"
+
+1564136773 source:c:\users\saurabhy\downloads\wiper_system\adc_module.c
+	<avr/io.h>
+	<stdint.h>
+
+1564131313 c:\users\saurabhy\downloads\wiper_system\adc_module.h
+
+1564131313 source:c:\users\saurabhy\downloads\wiper_system\fuse.c
+	<avr/io.h>
+
+1564136201 source:c:\users\saurabhy\downloads\wiper_system\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+	"TImer_Module.h"
+	"PWM_module.h"
+
+1564134538 c:\users\saurabhy\downloads\wiper_system\timer_module.h
+
+1564131313 c:\users\saurabhy\downloads\wiper_system\pwm_module.h
+
+1564131313 source:c:\users\saurabhy\downloads\wiper_system\pwm_module.c
+	<avr/io.h>
+	"PWM_module.h"
+
+1564131313 source:c:\users\saurabhy\downloads\wiper_system\timer_module.c
+	<avr/io.h>
+	"TImer_Module.h"
+
